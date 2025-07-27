@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-27T17:59:06.244797"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Tips and Tricks for Packing",
+            "importance_rank": 1,
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Beach Trips",
+            "importance_rank": 2,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "City Exploration",
+            "importance_rank": 3,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Gadgets and Accessories",
+            "importance_rank": 4,
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Toiletries",
+            "importance_rank": 5,
+            "page_number": 4
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 7,
+            "refined_text": "City Exploration\n• Day Bag: A small, secure day bag for carrying essentials like water, snacks, and a\ncamera.\n• Comfortable Shoes: Wear comfortable walking shoes for exploring cities.\n• Guidebook: A guidebook or map to help navigate and find points of interest.\n• Additional Tips: Use a money belt or hidden pouch to keep valuables safe. Consider\nusing public transportation to explore cities efficiently.\nWine Tours"
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 4,
+            "refined_text": "Gadgets and Accessories\n• Electronics: Smartphone, charger, power bank, and other devices. Bring a travel\nadapter if needed.\n• Camera: Capture memories with a camera, extra batteries, and memory cards.\n• Books and Entertainment: A book, e-reader, or tablet for entertainment during\ntravel.\n• Additional Tips: Download maps and travel guides to your devices for offline use.\nConsider bringing a portable Wi-Fi hotspot for reliable internet access.\nPacking for Kids"
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 4,
+            "refined_text": "Toiletries\n• Basic Toiletries: Toothbrush, toothpaste, shampoo, conditioner, body wash,\ndeodorant, and personal hygiene items.\n• Skincare: Sunscreen, moisturizer, and daily skincare products.\n• Makeup: Pack essentials in a travel-sized makeup bag.\n• Additional Items: A small sewing kit, nail clippers, and a razor.\n• Additional Tips: Consider packing a travel-sized perfume or cologne to freshen up on\nthe go.\nGadgets and Accessories"
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 8,
+            "refined_text": "Tips and Tricks for Packing\n• Check the Weather: Check the forecast before packing to ensure appropriate clothing.\n• Make a Packing List: Create a list to ensure nothing is forgotten. Cross off items as you\npack.\n• Use Packing Cubes: Organize clothes and maximize space.\n• Roll Your Clothes: Save space and reduce wrinkles.\n• Pack Dual-Purpose Items: Choose items that serve multiple purposes.\n• Wear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase\nspace.\n• Pack a Day Bag: Bring a small day bag for daily excursions.\n• Leave Room for Souvenirs: Leave extra space or bring a foldable bag for souvenirs.\n• Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a\nportable phone charger. Consider using a luggage scale to avoid overweight baggage\nfees.\nConclusion"
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 7,
+            "refined_text": "Beach Trips\n• Beach Bag: A large, waterproof bag for essentials.\n• Towels: Lightweight, quick-drying beach towels.\n• Beach Toys: Buckets, shovels, and toys for kids.\n• Snorkeling Gear: Bring your own gear for a better fit and comfort.\n• Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and\nsnacks. Consider bringing a waterproof phone case to protect your device.\nHiking and Outdoor Activities"
+        }
+    ]
+}
