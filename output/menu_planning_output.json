@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-28T17:37:06.407880"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Banchan",
+            "importance_rank": 1,
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Bouillabaisse",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Fruit and Nut Bars",
+            "importance_rank": 3,
+            "page_number": 15
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Falafel",
+            "importance_rank": 4,
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Mutabal",
+            "importance_rank": 5,
+            "page_number": 12
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 5,
+            "refined_text": "Banchan\n• Ingredients:\no Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi\n• Instructions:\no Prepare each side dish separately.\no Arrange on small plates.\no Serve as accompaniments to the main meal.\nBanh Beo"
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 3,
+            "refined_text": "Antipasto\n• Ingredients:\no Assorted cured meats (salami, prosciutto)\no Cheeses (mozzarella, provolone)\no Olives\no Marinated vegetables (artichokes, peppers)\no Breadsticks\n• Instructions:\no Arrange meats, cheeses, olives, and vegetables on a platter.\no Serve with breadsticks.\nArancini"
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 8,
+            "refined_text": "Fattoush\n• Ingredients:\no 2 pita breads\no 4 tomatoes\no 1 cucumber\no 1 small red onion\no 1/4 cup parsley\no 1/4 cup mint\no 1/4 cup lemon juice\no 1/4 cup olive oil\no 1 teaspoon sumac\no 1 teaspoon salt\n• Instructions:\no Toast pita breads until crispy, then break into pieces.\no Dice tomatoes and cucumber, slice red onion.\no Mix vegetables with chopped parsley and mint.\no Whisk lemon juice, olive oil, sumac, and salt, then pour over salad.\no Toss well and serve.\nFava"
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 11,
+            "refined_text": "Salade Niçoise\n• Ingredients:\no 4 tomatoes\no 1 cucumber\no 1 small red onion\no 1/4 cup olives\no 1/4 cup green beans\no 2 hard-boiled eggs\no 1 can tuna\no 1/4 cup olive oil\no 2 tablespoons red wine vinegar\no 1 teaspoon Dijon mustard\no 1 teaspoon salt\n• Instructions:\no Dice tomatoes and cucumber, slice red onion.\no Blanch green beans until tender.\no Arrange tomatoes, cucumber, onion, green beans, olives, and tuna on a plate.\no Quarter hard-boiled eggs and add to the salad.\no Whisk olive oil, vinegar, mustard, and salt, then drizzle over the salad.\no Toss gently and serve.\nSalpicão"
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 16,
+            "refined_text": "Almond Butter and Apple Slices\nIngredients:\n• 1 apple, sliced\n• 2 tablespoons almond butter\nInstructions:\n• Spread almond butter on each apple slice.\n• Serve immediately."
+        }
+    ]
+}
