@@ -111,7 +111,7 @@ adobe_round_1B/
             "importance_rank": 1,
             "page_number": 12
         },
-        ......
+        ...
     ],
     "subsection_analysis": [
         {
@@ -119,7 +119,7 @@ adobe_round_1B/
             "refined_text": "To create an interactive form, use the Prepare Forms tool. See Create a form from an existing document.",
             "page_number": 12
         },
-        ......
+        ...
     ]
 }
 ```
